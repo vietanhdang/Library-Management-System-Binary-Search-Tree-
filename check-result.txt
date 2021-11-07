@@ -1,0 +1,42 @@
+=== Big Number Test 1
+===  + 
+=== null
+=== Big Number Test 2
+===  + 
+=== null
+=== Big Number Test 3
+===  + 
+=== null
+=== Big Number Test 4
+===  + 
+=== null
+=== Big Number Test 5
+===  + 
+=== null
+=== Big Number Test 6
+===  + 
+=== null
+=== Big Number Test 7
+===  + 
+=== null
+=== Big Number Test 7
+===  + 
+=== null
+=== Formula Test 1
+===
+=== 0.0
+=== Formula Test 2
+===
+=== 0.0
+=== Formula Test 3
+===
+=== 0.0
+=== Formula Test 4
+===
+=== 0.0
+=== Formula Test 5
+===
+=== 0.0
+=== Formula Test 6
+===
+=== 0.0
